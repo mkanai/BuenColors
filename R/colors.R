@@ -109,6 +109,13 @@ jdb_palettes <- list(
   brewer_celsius = c('#313695', '#5083BB', '#8FC3DD', '#D2ECF4', '#FFFFBF', '#FDD384', '#F88D51', '#DE3F2E', '#A50026'),
   brewer_yes = c('#053061', '#2971B1', '#6AACD0', '#C1DDEB', '#F7F7F7', '#FACDB5', '#E58267', '#BB2933', '#67001F'),
 
+  seaborn_bright = c("#023EFF", "#FF7C00", "#1AC938", "#E8000B", "#8B2BE2", "#9F4800", "#F14CC1", "#A3A3A3", "#FFC400", "#00D7FF"),
+  seaborn_colorblind = c("#0173B2", "#DE8F05", "#029E73", "#D55E00", "#CC78BC", "#CA9161", "#FBAFE4", "#949494", "#ECE133", "#56B4E9"),
+  seaborn_dark = c("#001C7F", "#B1400D", "#12711C", "#8C0800", "#591E71", "#592F0D", "#A23582", "#3C3C3C", "#B8850A", "#006374"),
+  seaborn_deep = c("#4C72B0", "#DD8452", "#55A868", "#C44E52", "#8172B3", "#937860", "#DA8BC3", "#8C8C8C", "#CCB974", "#64B5CD"),
+  seaborn_muted = c("#4878D0", "#EE854A", "#6ACC64", "#D65F5F", "#956CB4", "#8C613C", "#DC7EC0", "#797979", "#D5BB67", "#82C6E2"),
+  seaborn_pastel = c("#A1C9F4", "#FFB482", "#8DE5A1", "#FF9F9B", "#D0BBFF", "#DEBB9B", "#FAB0E4", "#CFCFCF", "#FFFEA3", "#B9F2F0"),
+
   forest_yellow = c('#215e33', '#306835', '#3f7136', '#4e7b38', '#5d843a', '#6c8e3b', '#7b983d', '#89a13f', '#98ab41', '#a7b542', '#b6be44', '#c5c846', '#d4d147', '#e3db49'),
   forest_citric = c('#0b3310', '#1b4210', '#2b5111', '#3b6111', '#4c7012', '#5c7f12', '#6c8e12', '#7c9e13', '#8cad13', '#9cbc13', '#adcb14', '#bddb14', '#cdea15', '#ddf915'),
   citric_yellow = c('#21be45', '#30c246', '#40c546', '#4fc947', '#5fcc48', '#6ed048', '#7dd349', '#8dd74a', '#9cda4b', '#abde4b', '#bbe14c', '#cae54d', '#dae84d', '#e9ec4e'),
